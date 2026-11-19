@@ -1,6 +1,6 @@
 # Random Color Generator
 
-Simple and colorful web application that generates random HEX colors with a single click.
+Web application that generates random HEX colors with a single click.
 
 ## Technologies Used
 
