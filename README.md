@@ -4,9 +4,9 @@ Web application that generates random HEX colors with a single click.
 
 ## Technologies Used
 
-- **HTML5** — Page structure
-- **CSS3** — Styling 
-- **JavaScript** — DOM manipulation
+- **HTML5** 
+- **CSS3** 
+- **JavaScript** 
 
 ##  How to Run
 
